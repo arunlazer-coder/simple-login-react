@@ -1,0 +1,6 @@
+
+1) unzip the files
+2) open in cmd
+3) run npm start
+4) then in browser go to this url localhost:3000
+ 
